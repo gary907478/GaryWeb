@@ -1,0 +1,19 @@
+{
+  "name": "gary907478.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website by Gary Zhang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gary907478/gary907478.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gary907478/gary907478.github.io/issues"
+  },
+  "homepage": "https://github.com/gary907478/gary907478.github.io#readme"
+}
